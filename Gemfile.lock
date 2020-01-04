@@ -209,6 +209,8 @@ GEM
     turbolinks-source (5.2.0)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
+    tzinfo-data (1.2019.3)
+      tzinfo (>= 1.0.0)
     uglifier (4.1.20)
       execjs (>= 0.3.0, < 3)
     web-console (3.7.0)
@@ -256,6 +258,3 @@ DEPENDENCIES
   web-console (>= 3.3.0)
   webpacker (~> 4.x)
   will_paginate (= 3.1.8)
-
-BUNDLED WITH
-   1.17.3
